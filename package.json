@@ -1,0 +1,14 @@
+{
+  "name": "sqlcl-npm-demo",
+  "version": "1.0.0",
+  "description": "Example of using node modules in an SQLcl script",
+  "main": "lodashExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trent Schafer",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
