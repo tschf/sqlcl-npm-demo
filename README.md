@@ -20,7 +20,7 @@ Which should produce the following output:
 
 ```
 SQL> script lodashExample.js
-The second last itme was 164
+The second last item was 164
 
 ```
 
